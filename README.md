@@ -15,6 +15,8 @@ Presença na aula de Git do PET ++
 }
 
 03 = {
+	Felipe Cesar Freitas Monteiro
+	(Ana =D)
 }
 
 04 = {
