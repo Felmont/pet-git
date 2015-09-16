@@ -12,12 +12,11 @@ Presença na aula de Git do PET ++
 }
 
 02 = {
-	Sabrina presindenta
+	Sabrina Tridico (Presidenta)
 }
 
 03 = {
-	Felipe Cesar Freitas Monteiro
-	(Ana =D)
+	Felipe Cesar Freitas Monteiro (Ana =D)
 }
 
 04 = {
