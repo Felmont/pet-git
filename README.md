@@ -12,6 +12,7 @@ Presença na aula de Git do PET ++
 }
 
 02 = {
+	Sabrina presindenta
 }
 
 03 = {
